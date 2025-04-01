@@ -1,6 +1,7 @@
 # Coding Interview 2
 
-Name: ________________________
+Name: Ositadimma Onwe
+
 
 ## Instructions
 
